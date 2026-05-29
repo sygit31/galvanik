@@ -1,0 +1,10 @@
+D:\VS\Galvanik\Galvanik\bin\Debug\Galvanik.exe
+D:\VS\Galvanik\Galvanik\bin\Debug\Galvanik.pdb
+D:\VS\Galvanik\Galvanik\bin\Debug\Galvanik.xml
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.Form1.resources
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.Resources.resources
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.vbproj.GenerateResource.Cache
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.exe
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.xml
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.pdb
+D:\VS\Galvanik\Galvanik\obj\x86\Debug\Galvanik.vbprojResolveAssemblyReference.cache
